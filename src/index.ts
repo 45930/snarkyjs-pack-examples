@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { BigContract } from './BigContract.js';
 
-export { Add };
+export { BigContract };
