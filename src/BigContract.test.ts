@@ -4,11 +4,9 @@ import {
   PackedBoolFactory,
 } from 'snarkyjs-pack';
 import { BigContract } from './BigContract';
-import { Field, Mina, PrivateKey, PublicKey, AccountUpdate } from 'snarkyjs';
+import { Mina, PrivateKey, PublicKey, AccountUpdate } from 'snarkyjs';
 
 class IpfsHash extends PackedStringFactory(60) {}
-class PackedCounters extends PackedUInt32Factory(7) {}
-class PackedBools extends PackedBoolFactory(254) {}
 
 let proofsEnabled = true;
 

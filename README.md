@@ -1,25 +1,8 @@
 # Mina zkApp: Snarkyjs Pack Examples
 
-This template uses TypeScript.
+This is an example app showcasing the [snarkyjs-pack library](https://github.com/45930/snarkyjs-pack).
 
-## How to build
-
-```sh
-npm run build
-```
-
-## How to run tests
-
-```sh
-npm run test
-npm run testw # watch mode
-```
-
-## How to run coverage
-
-```sh
-npm run coverage
-```
+`BigContract` shows how to use the library to pack extra elements into on-chain state.
 
 ## License
 

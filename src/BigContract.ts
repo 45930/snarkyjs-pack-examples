@@ -1,12 +1,4 @@
-import {
-  Field,
-  SmartContract,
-  state,
-  State,
-  method,
-  Provable,
-  Bool,
-} from 'snarkyjs';
+import { SmartContract, state, State, method, Provable, Bool } from 'snarkyjs';
 import {
   PackedBoolFactory,
   PackedStringFactory,
