@@ -2,7 +2,7 @@
   "name": "snarkyjs-pack-examples",
   "version": "0.1.0",
   "description": "",
-  "author": "",
+  "author": "45930",
   "license": "Apache-2.0",
   "keywords": [
     "mina-zkapp",
@@ -46,7 +46,8 @@
   },
   "peerDependencies": {
     "snarkyjs": "0.12.*"
+  },
+  "dependencies": {
+    "snarkyjs-pack": "^0.2.3-beta3"
   }
 }
-
-
