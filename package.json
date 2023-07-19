@@ -48,6 +48,6 @@
     "snarkyjs": "0.12.*"
   },
   "dependencies": {
-    "snarkyjs-pack": "^0.2.3-beta3"
+    "snarkyjs-pack": "^0.2.3-beta4"
   }
 }
